@@ -2,11 +2,13 @@
   <h1>Hi 👋, Myself <span style="color: #00FF88;">Animesh Mondal</span></h1>
   <h3>Full Stack Web Developer | MERN Stack Learner | Building Scalable Systems</h3>
 
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Projects;Always+Learning+New+Things;MERN+Stack+Enthusiast" alt="Typing SVG" />
   </a>
   <br/>
 
+  <!-- Profile Badges -->
   <a href="https://github.com/Animesh-666">
     <img src="https://komarev.com/ghpvc/?username=Animesh-666&label=Profile%20Views&color=00ff88&style=flat-square" alt="Profile Views" />
   </a>
@@ -20,6 +22,7 @@
 
 <br/>
 
+<!-- About Me Section -->
 ## 📌 About Me
 
 <table>
@@ -47,6 +50,7 @@
 
 <br/>
 
+<!-- Snake Contribution Graph -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg">
@@ -57,19 +61,20 @@
 
 <br/>
 
+<!-- Social Media Links -->
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/Animesh-666" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/animesh666" target="_blank">
+  <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:animeshaaa234@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/9883589482" target="_blank">
+  <a href="https://wa.me/919883589482" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
@@ -82,17 +87,21 @@
 
 <br/>
 
+<!-- Tech Stack & Tools -->
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <!-- Row 1: Languages, Frameworks & Core DBs -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,express,php,java,c,mongodb,mysql,firebase" alt="Tech Stack Row 1" />
   </a>
   <br/>
+  <!-- Row 2: Cloud, Platforms, DevOps & Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,postgres,npm,idea,postman,docker,aws,linux,graphql" alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,npm,idea,postman,docker,aws,py,cpp,linux,graphql" alt="Tech Stack Row 2" />
   </a>
   <br/>
+  <!-- Row 3: Custom Cloud, UI & Service Badges -->
   <a href="https://cloudinary.com" target="_blank">
     <img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   </a>
@@ -106,6 +115,7 @@
 
 <br/>
 
+<!-- Pacman Contribution Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg">
@@ -116,6 +126,7 @@
 
 <br/>
 
+<!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -137,6 +148,7 @@
 
 <br/>
 
+<!-- Quote & Aesthetic GIF -->
 ## 💡 Quote
 
 <table>
