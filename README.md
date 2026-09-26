@@ -29,10 +29,10 @@
       <ul>
         <li>👋 Hi, I'm <b>Animesh Mondal</b></li>
         <li>💻 Currently focusing on <b>Advanced MERN Stack & Scalable Web Apps</b></li>
-        <li>🛠️ Working with <b>Node.js, Express, React, MySQL, & MongoDB</b></li>
+        <li>🛠️ Working with <b>Node.js, Express, React, SQL, & MongoDB</b></li>
         <li>🎯 Goal: Building robust, production-grade applications</li>
         <li>📩 Reach me at: <b>animeshaaa234@gmail.com</b></li>
-        <li>📍 Location: <b>West Bengal, India</b></li>
+        <li>📍 Location: <b>Kolkata, West Bengal, India</b></li>
       </ul>
       <br/>
       <div align="center">
