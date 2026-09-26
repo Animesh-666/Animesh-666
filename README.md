@@ -2,7 +2,7 @@
   <h1>Hi 👋, Myself <span style="color: #00FF88;">Animesh Mondal</span></h1>
   <h3>Full Stack Web Developer | MERN Stack Learner | Building Scalable Systems</h3>
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Dynamic Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Projects;Always+Learning+New+Things;MERN+Stack+Enthusiast" alt="Typing SVG" />
   </a>
@@ -39,10 +39,12 @@
       </ul>
       <br/>
       <div align="center">
+        <!-- Animated Coding Illustration -->
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Boy Illustration" />
       </div>
     </td>
     <td width="40%" align="center" valign="middle">
+      <!-- Animated Setup GIF -->
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Neon Coding Setup" />
     </td>
   </tr>
@@ -50,18 +52,7 @@
 
 <br/>
 
-<!-- Snake Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- Social Media Links -->
+<!-- Connect With Me -->
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -91,17 +82,17 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Row 1: Languages, Frameworks & Core DBs -->
+  <!-- Row 1: HTML, CSS, JS, TS, React, Vite, Bootstrap, Tailwind, Node, Express, PHP, Java, C, Mongo, MySQL, Firebase -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,express,php,java,c,mongodb,mysql,firebase" alt="Tech Stack Row 1" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,express,php,java,c,mongodb,mysql,firebase&theme=dark" alt="Tech Stack Row 1" />
   </a>
   <br/>
-  <!-- Row 2: Cloud, Platforms, DevOps & Tools -->
+  <!-- Row 2: GCP, Vercel, Netlify, Git, GitHub, VS Code, MUI, PHP, NPM, IntelliJ, Postman, Docker, AWS, Linux, Bash, GraphQL -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,npm,idea,postman,docker,aws,py,cpp,linux,graphql" alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,php,npm,idea,postman,docker,aws,linux,bash,graphql&theme=dark" alt="Tech Stack Row 2" />
   </a>
   <br/>
-  <!-- Row 3: Custom Cloud, UI & Service Badges -->
+  <!-- Row 3: Custom Badges -->
   <a href="https://cloudinary.com" target="_blank">
     <img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   </a>
@@ -115,12 +106,14 @@
 
 <br/>
 
-<!-- Pacman Contribution Animation -->
+<!-- Animated Pacman Contribution Game -->
+## 🎮 Contribution Maze
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg">
-    <img alt="Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg" width="100%">
+    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg" width="100%">
   </picture>
 </div>
 
@@ -157,6 +150,7 @@
       <h3><i>"Code. Build. Learn. Repeat."</i></h3>
     </td>
     <td width="40%" align="center">
+      <!-- Animated Aesthetic Pixel Art -->
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Pixel Art Skyline" />
     </td>
   </tr>
