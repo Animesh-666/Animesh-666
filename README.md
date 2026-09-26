@@ -1,26 +1,14 @@
 <div align="center">
+  <h1>Hi 👋, Myself <span style="color: #00FF88;">Animesh Mondal</span></h1>
+  <h3>Full Stack Web Developer | MERN Stack Learner | Building Scalable Systems</h3>
 
-# 👋 Hi, I'm ANIMESH MONDAL
-
-### 💻 B.Tech CSE Student | Full-Stack Developer | Android & Flutter Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+build+web+and+mobile+applications;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+working+projects" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/Animesh-666">
-    <img src="https://img.shields.io/github/followers/Animesh-666?label=Followers&style=for-the-badge" alt="GitHub Followers">
+  <!-- Dynamic Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Projects;Always+Learning+New+Things;MERN+Stack+Enthusiast" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/Animesh-666?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge" alt="Repositories">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Animesh-666&style=for-the-badge&color=brightgreen" alt="Profile Views">
-</p>
+  <br/>
 
-</div>
-
----
-
-<!-- Profile Badges -->
+  <!-- Profile Badges -->
   <a href="https://github.com/Animesh-666">
     <img src="https://komarev.com/ghpvc/?username=Animesh-666&label=Profile%20Views&color=00ff88&style=flat-square" alt="Profile Views" />
   </a>
@@ -32,20 +20,39 @@
   </a>
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- About Me Section -->
+## 📌 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student
-- 📍 Based in **Kolkata, West Bengal, India**
-- 💻 Interested in **Web Development, Android Development, Flutter and Backend Development**
-- 🔥 I enjoy building practical projects that solve real-world problems
-- 🌱 Currently improving my skills in **Flutter, backend development, databases and software engineering**
-- 🧠 Interested in **DSA, OOP, Computer Science fundamentals and application development**
-- 🛠️ I like taking projects from an idea → prototype → working application
-- 🎯 Goal: Keep learning, build better projects and grow as a software developer
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      <ul>
+        <li>🎓 <b>B.Tech Computer Science & Engineering</b> student</li>
+        <li>📍 Based in <b>Kolkata, West Bengal, India</b></li>
+        <li>💻 Interested in <b>Web Development, Android Development, Flutter</b> and <b>Backend Development</b></li>
+        <li>🔥 I enjoy building practical projects that solve <b>real-world problems</b></li>
+        <li>🌱 Currently improving my skills in <b>Flutter, backend development, databases</b> and <b>software engineering</b></li>
+        <li>🧠 Interested in <b>DSA, OOP, Computer Science fundamentals</b> and application development</li>
+        <li>🛠️ I like taking projects from an <b>idea → prototype → working application</b></li>
+        <li>🎯 Goal: Keep learning, <b>build better projects</b> and grow as a software developer</li>
+      </ul>
+      <br/>
+      <div align="center">
+        <!-- Animated Coding Illustration -->
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Boy Illustration" />
+      </div>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Animated Setup GIF -->
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Neon Coding Setup" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
 <!-- Connect With Me -->
 ## 🌐 Connect With Me
