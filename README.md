@@ -1,4 +1,7 @@
 <div align="center">
+  <!-- Profile Picture -->
+  <img src="profile.png" alt="Animesh Mondal" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
+
   <h1>Hi 👋, Myself <span style="color: #00FF88;">Animesh Mondal</span></h1>
   <h3>Full Stack Web Developer | MERN Stack Learner | Building Scalable Systems</h3>
 
