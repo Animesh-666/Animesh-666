@@ -20,6 +20,20 @@
 
 ---
 
+<!-- Profile Badges -->
+  <a href="https://github.com/Animesh-666">
+    <img src="https://komarev.com/ghpvc/?username=Animesh-666&label=Profile%20Views&color=00ff88&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Animesh-666?tab=followers">
+    <img src="https://img.shields.io/github/followers/Animesh-666?label=Followers&style=flat-square&color=18181b&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/Animesh-666">
+    <img src="https://img.shields.io/github/stars/Animesh-666?label=Stars&style=flat-square&color=18181b&logo=reverbnation&logoColor=yellow" alt="Stars" />
+  </a>
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science & Engineering student
@@ -33,178 +47,106 @@
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Connect With Me -->
+## 🌐 Connect With Me
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,html,css" />
+<p align="left">
+  <a href="https://github.com/Animesh-666" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:animeshaaa234@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/919883589482" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
-### 🌐 Web Development
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,bootstrap" />
+<!-- Tech Stack & Tools -->
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Row 1: HTML, CSS, JS, TS, React, Vite, Bootstrap, Tailwind, Node, Express, PHP, Java, C, Mongo, MySQL, Firebase -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,express,php,java,c,mongodb,mysql,firebase&theme=dark" alt="Tech Stack Row 1" />
+  </a>
+  <br/>
+  <!-- Row 2: GCP, Vercel, Netlify, Git, GitHub, VS Code, MUI, PHP, NPM, IntelliJ, Postman, Docker, AWS, Linux, Bash, GraphQL -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,php,npm,idea,postman,docker,aws,linux,bash,graphql&theme=dark" alt="Tech Stack Row 2" />
+  </a>
+  <br/>
+  <!-- Row 3: Custom Badges -->
+  <a href="https://cloudinary.com" target="_blank">
+    <img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  </a>
+  <a href="https://canva.com" target="_blank">
+    <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>
+  <a href="https://mapbox.com" target="_blank">
+    <img src="https://img.shields.io/badge/MAPBOX-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
+  </a>
 </p>
 
-### 📱 Mobile Development
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,express" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🍔 Smart Food Delivery Route Planner
-
-A web-based food delivery management system designed to manage food orders, delivery agents and delivery routes.
-
-**Key areas:**
-- 🍽️ Menu and cart system
-- 🔐 Login & signup
-- 📦 Order management
-- 🚚 Delivery-agent management
-- 🗺️ Route planning
-- 📊 Analytics dashboard
-- 🛠️ Admin panel
-- 🗄️ Node.js + Express + MySQL backend
-
----
-
-### 🎓 College Course Scheduling System
-
-A college timetable and course scheduling project developed with frontend, backend and database components.
-
-**Key areas:**
-- 👨‍🏫 Faculty management
-- 🏫 Classroom management
-- 📅 Timetable generation
-- ⚙️ Scheduling logic
-- 🗄️ Database integration
-- 🌐 Frontend + backend architecture
-
----
-
-### 📱 Smart Curriculum Activity & Attendance App
-
-A Smart Education application concept designed to combine attendance with curriculum activities and student productivity.
-
-**Key features:**
-- 📷 Dynamic QR-based attendance
-- ⏱️ Time-limited QR codes
-- 📚 Assignments and curriculum activities
-- 📅 Student planner
-- 📈 Progress tracking
-- 🔔 Notifications and reminders
-- ☁️ Firebase-based backend
-- 📶 Offline-friendly approach
-
----
-
-## 📊 GitHub Statistics
+<!-- Animated Pacman Contribution Game -->
+## 🎮 Contribution Maze
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Animesh-666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-666&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg">
+    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/pacman.svg" width="100%">
+  </picture>
 </div>
 
----
+<br/>
 
-## 🔥 GitHub Streak
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Animesh-666&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=8" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-666&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=8" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://streak-stats.demolab.com?user=Animesh-666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh-666&theme=tokyonight&border=00ff88&border_radius=8" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<!-- Quote & Aesthetic GIF -->
+## 💡 Quote
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Animesh-666&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-```text
-Flutter & Dart
-        ↓
-Mobile App Development
-        ↓
-Backend Development
-        ↓
-Databases & APIs
-        ↓
-DSA & Problem Solving
-        ↓
-Building Production-Ready Projects
-```
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Build more complete full-stack applications
-- [ ] Improve Flutter development skills
-- [ ] Strengthen DSA and problem-solving
-- [ ] Learn better backend architecture
-- [ ] Deploy more projects
-- [ ] Contribute to open-source projects
-- [ ] Build a strong software-development portfolio
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:animeshaaa234@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://www.linkedin.com/in/animesh666/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/animesh___666/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://github.com/Animesh-666">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Improve. Repeat."
-
-⭐ If you find my projects useful, consider giving them a star!
-
-</div>
+<table>
+  <tr>
+    <td width="60%" align="center">
+      <h3><i>"Code. Build. Learn. Repeat."</i></h3>
+    </td>
+    <td width="40%" align="center">
+      <!-- Animated Aesthetic Pixel Art -->
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Pixel Art Skyline" />
+    </td>
+  </tr>
+</table>
