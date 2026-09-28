@@ -20,7 +20,7 @@ jobs:
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: JEETJM
+          github_user_name: Animesh-666
 
       - name: Push pacman files to output-pacman branch
         uses: crazy-max/ghaction-github-pages@v3
