@@ -129,13 +129,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/github-contribution-grid-snake.svg">
-    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman.svg">
+    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-dark.svg" width="100%">
   </picture>
 </div>
-
-<br/>
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
