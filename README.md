@@ -44,10 +44,12 @@
       </ul>
       <br/>
       <div align="center">
+        <!-- Animated Coding Illustration -->
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Boy Illustration" />
       </div>
     </td>
     <td width="40%" align="center" valign="middle">
+      <!-- Animated Setup GIF -->
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Neon Coding Setup" />
     </td>
   </tr>
@@ -85,14 +87,17 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <!-- Row 1: HTML, CSS, JS, TS, React, Vite, Bootstrap, Tailwind, Node, Express, PHP, Java, C, Mongo, MySQL, Firebase -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,express,php,java,c,mongodb,mysql,firebase&theme=dark" alt="Tech Stack Row 1" />
   </a>
   <br/>
+  <!-- Row 2: GCP, Vercel, Netlify, Git, GitHub, VS Code, MUI, PHP, NPM, IntelliJ, Postman, Docker, AWS, Linux, Bash, GraphQL -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,php,npm,idea,postman,docker,aws,linux,bash,graphql&theme=dark" alt="Tech Stack Row 2" />
   </a>
   <br/>
+  <!-- Row 3: Custom Badges -->
   <a href="https://cloudinary.com" target="_blank">
     <img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   </a>
@@ -124,9 +129,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman.svg">
-    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/github-contribution-grid-snake.svg">
+    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -139,10 +144,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Animesh-666&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=8" alt="GitHub Stats" />
+        <img height="180em" src="https://readme-stats-anuraghazra.vercel.app/api?username=Animesh-666&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=8" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-666&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=8" alt="Most Used Languages" />
+        <img height="180em" src="https://readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Animesh-666&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=8" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -163,6 +168,7 @@
       <h3><i>"Code. Build. Learn. Repeat."</i></h3>
     </td>
     <td width="40%" align="center">
+      <!-- Animated Aesthetic Pixel Art -->
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Pixel Art Skyline" />
     </td>
   </tr>
