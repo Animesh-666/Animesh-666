@@ -57,10 +57,24 @@
   <img src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 </div>
 
-<details>
-<summary>🎮 Bonus: Contribution Pac-Man animation</summary>
-<br />
-<img src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-dark.svg" width="100%" alt="Pac-Man contribution graph" />
+<details open>
+  <summary>🎮 Bonus: Contribution Pac-Man animation</summary>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-contribution-graph-dark.svg"
+      width="100%"
+      alt="Pac-Man contribution graph"
+    />
+  </picture>
 </details>
 
 ### 🤝 Connect
