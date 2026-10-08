@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Animesh Mondal - Full-stack developer crafting useful software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07130f"/>
+      <stop offset="0.55" stop-color="#0b151c"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#56f3a2"/>
+      <stop offset="0.48" stop-color="#3ddbd9"/>
+      <stop offset="1" stop-color="#7bb4ff"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#14251f"/>
+      <stop offset="1" stop-color="#101921"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#2ce9a1" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#2ce9a1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#77eac1" opacity="0.10"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#030c09" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#dots)"/>
+  <ellipse cx="1070" cy="55" rx="360" ry="270" fill="url(#halo)"/>
+  <circle cx="1050" cy="300" r="123" fill="#35ea96" opacity="0.10" filter="url(#glow)"/>
+  <path d="M0 322H1200" stroke="#7de6b9" opacity="0.09"/>
+  <path d="M53 40H127" stroke="url(#mint)" stroke-width="4" stroke-linecap="round"/>
+  <rect x="52" y="57" width="224" height="30" rx="15" fill="#112a25" stroke="#2a5f4b" stroke-opacity=".85"/>
+  <circle cx="69" cy="72" r="4" fill="#59eeab"/>
+  <text x="83" y="77" font-family="Verdana,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.4" fill="#a9e7cc">DEVELOPER / BUILDER</text>
+  <text x="49" y="175" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="800" letter-spacing="-3.2" fill="#f3faf7">ANIMESH</text>
+  <text x="49" y="256" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="800" letter-spacing="-3.2" fill="url(#mint)">MONDAL</text>
+  <text x="54" y="296" font-family="Verdana,Arial,sans-serif" font-size="15" fill="#afc6bb" letter-spacing=".2">Building useful software, one commit at a time.</text>
+  <text x="54" y="334" font-family="monospace" font-size="12" fill="#629e8b" letter-spacing=".8">WEB DEVELOPMENT  /  ANDROID  /  PROBLEM SOLVING</text>
+  <g filter="url(#shadow)">
+    <rect x="706" y="52" width="446" height="252" rx="15" fill="url(#card)" stroke="#396b59" stroke-opacity=".75"/>
+    <rect x="706" y="52" width="446" height="37" rx="15" fill="#1d302b"/>
+    <path d="M706 76V88H1152V76" fill="#1d302b"/>
+    <path d="M706 89H1152" stroke="#477160" stroke-opacity=".4"/>
+    <circle cx="728" cy="70.5" r="4.4" fill="#fb6d73"/>
+    <circle cx="744" cy="70.5" r="4.4" fill="#f6c45d"/>
+    <circle cx="760" cy="70.5" r="4.4" fill="#50d79b"/>
+    <text x="902" y="75" text-anchor="middle" font-family="monospace" font-size="12" fill="#b1cbc0">developer.ts</text>
+    <text x="733" y="117" font-family="monospace" font-size="15" fill="#7c968d">01</text>
+    <text x="774" y="117" font-family="monospace" font-size="15" fill="#6edbe1">const</text>
+    <text x="831" y="117" font-family="monospace" font-size="15" fill="#dfeee8">developer</text>
+    <text x="920" y="117" font-family="monospace" font-size="15" fill="#8da49b">= {</text>
+    <text x="733" y="146" font-family="monospace" font-size="15" fill="#7c968d">02</text>
+    <text x="803" y="146" font-family="monospace" font-size="15" fill="#a8bfb5">name:</text>
+    <text x="867" y="146" font-family="monospace" font-size="15" fill="#81edaa">'Animesh',</text>
+    <text x="733" y="175" font-family="monospace" font-size="15" fill="#7c968d">03</text>
+    <text x="803" y="175" font-family="monospace" font-size="15" fill="#a8bfb5">focus:</text>
+    <text x="867" y="175" font-family="monospace" font-size="15" fill="#81edaa">'real-world apps',</text>
+    <text x="733" y="204" font-family="monospace" font-size="15" fill="#7c968d">04</text>
+    <text x="803" y="204" font-family="monospace" font-size="15" fill="#a8bfb5">mindset:</text>
+    <text x="897" y="204" font-family="monospace" font-size="15" fill="#81edaa">'keep building',</text>
+    <text x="733" y="233" font-family="monospace" font-size="15" fill="#7c968d">05</text>
+    <text x="773" y="233" font-family="monospace" font-size="15" fill="#8da49b">};</text>
+    <path d="M726 259H1131" stroke="#2f5248"/>
+    <circle cx="739" cy="281" r="5" fill="#54e5a7"/>
+    <text x="752" y="285" font-family="monospace" font-size="12" fill="#c6ded2">open to learning &amp; collaboration</text>
+  </g>
+  <path d="M687 25L680 32L687 39M1169 316L1176 323L1169 330" fill="none" stroke="#61d2ab" stroke-width="2" opacity=".42"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#2d5949" stroke-opacity=".60" stroke-width="1.4"/>
+</svg>

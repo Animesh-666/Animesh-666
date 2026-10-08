@@ -1,173 +1,131 @@
 <div align="center">
-  <!-- Profile Picture -->
-  <img src="profile.png" alt="Animesh Mondal" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
+  <img src="assets/hero.svg" alt="Animesh Mondal — developer and builder" width="100%" />
 
-  <h1>Hi 👋, Myself <span style="color: #00FF88;">Animesh Mondal</span></h1>
-  <h3>Full Stack Web Developer | MERN Stack Learner | Building Scalable Systems</h3>
+  <br />
 
-  <!-- Dynamic Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Projects;Always+Learning+New+Things;MERN+Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1100&amp;color=55EBA8&amp;center=true&amp;vCenter=true&amp;width=730&amp;lines=Full-Stack+Web+Development;Building+Solutions+to+Real-World+Problems;Exploring+Android+%26+Backend+Engineering;Learn.+Build.+Improve.+Repeat." alt="Animated introduction" />
   </a>
-  <br/>
 
-  <!-- Profile Badges -->
-  <a href="https://github.com/Animesh-666">
-    <img src="https://komarev.com/ghpvc/?username=Animesh-666&label=Profile%20Views&color=00ff88&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Animesh-666?tab=followers">
-    <img src="https://img.shields.io/github/followers/Animesh-666?label=Followers&style=flat-square&color=18181b&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/Animesh-666">
-    <img src="https://img.shields.io/github/stars/Animesh-666?label=Stars&style=flat-square&color=18181b&logo=reverbnation&logoColor=yellow" alt="Stars" />
-  </a>
+  <p>
+    <a href="https://github.com/Animesh-666?tab=followers"><img src="https://img.shields.io/github/followers/Animesh-666?style=for-the-badge&amp;label=FOLLOWERS&amp;logo=github&amp;color=143d30&amp;labelColor=111c1a" alt="GitHub followers" /></a>
+    <a href="https://github.com/Animesh-666"><img src="https://komarev.com/ghpvc/?username=Animesh-666&amp;label=PROFILE+VIEWS&amp;color=143d30&amp;style=for-the-badge" alt="Profile views" /></a>
+    <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-143d30?style=for-the-badge&amp;logo=linkedin&amp;logoColor=55e6a3&amp;labelColor=111c1a" alt="Connect on LinkedIn" /></a>
+  </p>
 </div>
 
-<br/>
+<br />
 
-<!-- About Me Section -->
-## 📌 About Me
+## 👨‍💻 About me
+
+> **Engineering ideas into practical applications.** I enjoy building products that combine thoughtful interfaces, dependable backend systems, and problem-solving.
+
+- 🎓 **B.Tech Computer Science & Engineering** student.
+- 🚀 Building web applications, exploring Android development, and improving backend skills.
+- 🧠 Interested in **data structures, algorithms, databases, and system design**.
+- 🤝 Enjoy collaborating on useful projects — especially **[ReFeed](https://github.com/subhadipmondal99/ReFeed)**, a team effort to reduce food waste.
+- 🌱 Currently learning more about **software architecture, Flutter, and deployment**.
+
+<br />
+
+## ✦ Featured projects
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <ul>
-        <li>🎓 <b>B.Tech Computer Science & Engineering</b> student</li>
-        <li>📍 Based in <b>Kolkata, West Bengal, India</b></li>
-        <li>💻 Interested in <b>Web Development, Android Development, Flutter</b> and <b>Backend Development</b></li>
-        <li>🔥 I enjoy building practical projects that solve <b>real-world problems</b></li>
-        <li>🌱 Currently improving my skills in <b>Flutter, backend development, databases</b> and <b>software engineering</b></li>
-        <li>🧠 Interested in <b>DSA, OOP, Computer Science fundamentals</b> and application development</li>
-        <li>🛠️ I like taking projects from an <b>idea → prototype → working application</b></li>
-        <li>🎯 Goal: Keep learning, <b>build better projects</b> and grow as a software developer</li>
-      </ul>
-      <br/>
-      <div align="center">
-        <!-- Animated Coding Illustration -->
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Boy Illustration" />
-      </div>
+    <td width="50%" valign="top">
+      <h3>🍱 <a href="https://github.com/subhadipmondal99/ReFeed">ReFeed</a></h3>
+      <p><b>Team collaboration · Food waste reduction</b></p>
+      <p>A campus food-management platform for demand forecasting, meal planning, surplus identification, and NGO donation coordination.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d2020?logo=react&amp;logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-0d2020?logo=vite&amp;logoColor=BC91FF" alt="Vite" />
+        <img src="https://img.shields.io/badge/Firebase-0d2020?logo=firebase&amp;logoColor=FFCC30" alt="Firebase" />
+      </p>
+      <a href="https://github.com/subhadipmondal99/ReFeed">Explore the team repository ↗</a>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Animated Setup GIF -->
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Neon Coding Setup" />
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/Animesh-666/FOODROUTE">FOODROUTE</a></h3>
+      <p><b>Full-stack · Route optimization</b></p>
+      <p>Food-delivery platform with customer/admin/delivery workflows, interactive maps, and route optimization algorithms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0d2020?logo=nodedotjs&amp;logoColor=68C35C" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-0d2020?logo=express&amp;logoColor=FFFFFF" alt="Express" />
+        <img src="https://img.shields.io/badge/MySQL-0d2020?logo=mysql&amp;logoColor=73BBDD" alt="MySQL" />
+      </p>
+      <a href="https://github.com/Animesh-666/FOODROUTE">Explore the project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/Animesh-666/College-Course-Scheduling-System">Course Scheduling</a></h3>
+      <p><b>Algorithms · Academic project</b></p>
+      <p>College timetable generation using graph coloring, backtracking, and branch-and-bound techniques to reduce scheduling conflicts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d2020?logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Algorithms-0d2020?logo=thealgorithms&amp;logoColor=55EBA8" alt="Algorithms" />
+        <img src="https://img.shields.io/badge/MySQL-0d2020?logo=mysql&amp;logoColor=73BBDD" alt="MySQL" />
+      </p>
+      <a href="https://github.com/Animesh-666/College-Course-Scheduling-System">Explore the project ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Animesh-666/teamtrack">TeamTrack</a></h3>
+      <p><b>MERN · Real-time collaboration</b></p>
+      <p>A team productivity application built with a React client, Express API, MongoDB, and real-time Socket.IO integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d2020?logo=react&amp;logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/MongoDB-0d2020?logo=mongodb&amp;logoColor=66C88A" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Socket.IO-0d2020?logo=socketdotio&amp;logoColor=FFFFFF" alt="Socket.IO" />
+      </p>
+      <a href="https://github.com/Animesh-666/teamtrack">Explore the project ↗</a>
     </td>
   </tr>
 </table>
 
-<br/>
+<br />
 
-<!-- Connect With Me -->
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Animesh-666" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:animeshaaa234@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/919883589482" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Tech Stack & Tools -->
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Row 1: HTML, CSS, JS, TS, React, Vite, Bootstrap, Tailwind, Node, Express, PHP, Java, C, Mongo, MySQL, Firebase -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,express,php,java,c,mongodb,mysql,firebase&theme=dark" alt="Tech Stack Row 1" />
-  </a>
-  <br/>
-  <!-- Row 2: GCP, Vercel, Netlify, Git, GitHub, VS Code, MUI, PHP, NPM, IntelliJ, Postman, Docker, AWS, Linux, Bash, GraphQL -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,vscode,materialui,php,npm,idea,postman,docker,aws,linux,bash,graphql&theme=dark" alt="Tech Stack Row 2" />
-  </a>
-  <br/>
-  <!-- Row 3: Custom Badges -->
-  <a href="https://cloudinary.com" target="_blank">
-    <img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  </a>
-  <a href="https://canva.com" target="_blank">
-    <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  </a>
-  <a href="https://mapbox.com" target="_blank">
-    <img src="https://img.shields.io/badge/MAPBOX-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Animated Snake Contribution Graph -->
-## 🐍 Contribution Snake
+## ⚡ Technology & tools
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <p><b>Languages &amp; frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,java&amp;theme=dark&amp;perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Bootstrap, Java" />
+
+  <p><b>Backend &amp; databases</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&amp;theme=dark&amp;perline=8" alt="Node.js, Express, MySQL, MongoDB, Firebase" />
+
+  <p><b>Developer workflow</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;theme=dark&amp;perline=8" alt="Git, GitHub, VS Code, Postman" />
+
+  <sub>Tools I've used across projects and tools I continue learning — not a claim of expertise in every one.</sub>
 </div>
 
-<br/>
+<br />
 
-<!-- Animated Pacman Contribution Game -->
-## 🎮 Contribution Maze
+## 📈 Development in motion
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman.svg">
-    <img alt="Animated Pacman Contribution Maze" src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-dark.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Animesh-666&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=56e6ac&amp;text_color=c9d1d9&amp;icon_color=56e6ac&amp;rank_icon=github" height="165" alt="Animesh's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-666&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=56e6ac&amp;text_color=c9d1d9" height="165" alt="Most used languages across public repositories" />
 </div>
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://readme-stats-anuraghazra.vercel.app/api?username=Animesh-666&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=8" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Animesh-666&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=8" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh-666&theme=tokyonight&border=00ff88&border_radius=8" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="95%" />
 </div>
 
-<br/>
+<details>
+  <summary><b>🎮 Bonus: Pac-Man contribution animation</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Animesh-666/Animesh-666/output-pacman/pacman-dark.svg" alt="Pac-Man contribution animation" width="95%" />
+  </div>
+</details>
 
-<!-- Quote & Aesthetic GIF -->
-## 💡 Quote
+<br />
 
-<table>
-  <tr>
-    <td width="60%" align="center">
-      <h3><i>"Code. Build. Learn. Repeat."</i></h3>
-    </td>
-    <td width="40%" align="center">
-      <!-- Animated Aesthetic Pixel Art -->
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Pixel Art Skyline" />
-    </td>
-  </tr>
-</table>
+## 🤝 Let's connect
+
+<div align="center">
+  <a href="https://github.com/Animesh-666"><img src="https://img.shields.io/badge/GitHub-151b23?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355"><img src="https://img.shields.io/badge/LinkedIn-151b23?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn" /></a>
+  <br /><br />
+  <sub><b>Make it useful. Make it better. Keep building.</b></sub>
+</div>
