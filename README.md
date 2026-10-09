@@ -7,7 +7,13 @@
 
   <p>
     <a href="https://github.com/Animesh-666?tab=followers"><img src="https://img.shields.io/github/followers/Animesh-666?style=for-the-badge&label=FOLLOWERS&logo=github&color=0c4539&labelColor=111c1a" alt="Followers" /></a>
-    <a href="https://github.com/Animesh-666"><img src="https://komarev.com/ghpvc/?username=Animesh-666&label=PROFILE+VIEWS&color=0c4539&style=for-the-badge" alt="Profile views" /></a>
+   
+<a href="https://github.com/Animesh-666">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=Animesh-666.Animesh-666"
+    alt="GitHub Profile Views"
+  />
+</a>
     <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0c4539?style=for-the-badge&logo=linkedin&logoColor=50f6aa&labelColor=111c1a" alt="LinkedIn" /></a>
     <a href="https://animesh-666.github.io/Animesh-666/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE+SITE-0c4539?style=for-the-badge&logo=githubpages&logoColor=50f6aa&labelColor=111c1a" alt="Portfolio website — becomes active when GitHub Pages is enabled" /></a>
   </p>
