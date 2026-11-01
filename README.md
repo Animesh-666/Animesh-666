@@ -7,11 +7,9 @@
 
   <p>
     <a href="https://github.com/Animesh-666?tab=followers"><img src="https://img.shields.io/github/followers/Animesh-666?style=for-the-badge&label=FOLLOWERS&logo=github&color=0c4539&labelColor=111c1a" alt="Followers" /></a>
-<a href="https://github.com/Animesh-666">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=Animesh-666.Animesh-666&text=PROFILE_VIEWS&color=0c4539&lcolor=111c1a&style=for-the-badge" alt="Profile views" />
-</a>
+    <a href="https://github.com/Animesh-666"><img src="https://vbr.nathanchung.dev/badge?page_id=Animesh-666.Animesh-666&text=PROFILE_VIEWS&color=0c4539&lcolor=111c1a&style=for-the-badge" alt="Profile views" /></a>
     <a href="https://www.linkedin.com/in/animesh-mondal-a5059a355/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0c4539?style=for-the-badge&logo=linkedin&logoColor=50f6aa&labelColor=111c1a" alt="LinkedIn" /></a>
-    <a href="https://animesh-cosmic-portfolio-docs.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE+SITE-0c4539?style=for-the-badge&logo=githubpages&logoColor=50f6aa&labelColor=111c1a" alt="Portfolio website — becomes active when GitHub Pages is enabled" /></a>
+    <a href="https://animesh-cosmic-portfolio-docs.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE+SITE-0c4539?style=for-the-badge&logo=vercel&logoColor=50f6aa&labelColor=111c1a" alt="Live Cosmic Portfolio on Vercel" /></a>
   </p>
 </div>
 
@@ -20,9 +18,9 @@
 > **CSE student · Developer · Problem solver.** I enjoy building practical applications that bring together thoughtful frontend design, dependable backend systems, and useful algorithms.
 
 - 🎓 Studying **Computer Science & Engineering**.
-- 💻 Working with **React, JavaScript, Node.js, Express, MySQL, and MongoDB**.
+- 💻 Working with **React, JavaScript/TypeScript, Node.js, Java, Spring Boot, Firebase, and SQL databases**.
 - 🌿 Collaborating on **[ReFeed](https://github.com/subhadipmondal99/ReFeed)**, a campus food-waste management project.
-- 🚀 Exploring **Android development, system design, and deployment**.
+- 🚀 Building **[VOLTLEDGER](https://github.com/Animesh-666/VOLTLEDGER)** and an immersive **[3D Cosmic Portfolio](https://github.com/Animesh-666/Animesh-Cosmic-Portfolio)**.
 
 <img src="assets/focus.svg" width="100%" alt="Current focus: building useful software and learning" />
 
@@ -34,12 +32,12 @@
     <td width="50%"><a href="https://github.com/Animesh-666/FOODROUTE"><img src="assets/project-foodroute.svg" alt="FOODROUTE: route optimized food delivery" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/Animesh-666/College-Course-Scheduling-System"><img src="assets/project-scheduling.svg" alt="College Course Scheduling project" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/Animesh-666/teamtrack"><img src="assets/project-teamtrack.svg" alt="TeamTrack: real-time teamwork application" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/Animesh-666/VOLTLEDGER"><img src="assets/project-voltledger.svg" alt="VOLTLEDGER: Java and Spring Boot electricity billing with Firebase" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/Animesh-666/Animesh-Cosmic-Portfolio"><img src="assets/project-cosmic-portfolio.svg" alt="Cosmic Portfolio: interactive 3D galaxy portfolio with Three.js" width="100%" /></a></td>
   </tr>
 </table>
 
-<div align="center"><sub>Click any project card to explore its original GitHub repository. ReFeed is a collaborative team project.</sub></div>
+<div align="center"><sub>Click a project card to open its GitHub repository. ReFeed is a collaborative team project.</sub></div>
 
 ### ⚡ Tech stack & tools
 
@@ -51,8 +49,8 @@
 ### 📊 GitHub stats & activity
 
 <div align="center">
-  <a href="https://github.com/Animesh-666"><img src="https://github-readme-stats.vercel.app/api?username=Animesh-666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=51ebb3&text_color=dae7e1&icon_color=51ebb3" height="165" alt="GitHub stats generated from public GitHub data" /></a>
-  <a href="https://github.com/Animesh-666?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-666&layout=compact&hide_border=true&bg_color=0d1117&title_color=51ebb3&text_color=dae7e1" height="165" alt="Most-used languages across public repositories" /></a>
+  <a href="https://github.com/Animesh-666?tab=repositories"><img src="assets/github-stats.svg" width="49%" alt="GitHub public repository and star statistics" /></a>
+  <a href="https://github.com/Animesh-666?tab=repositories"><img src="assets/github-languages.svg" width="49%" alt="Primary languages across GitHub public repositories" /></a>
 </div>
 
 <div align="center">
